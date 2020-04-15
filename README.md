@@ -1,3 +1,5 @@
+    远程IP：百度ip：220.181.38.150:443
+    端口范围：433-444
     char dest_ip[100];
 		cout <<"please input dest ip: ";
 		cin >> dest_ip;
